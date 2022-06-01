@@ -1,0 +1,48 @@
+{
+	"storyName": "RED X",
+	"hideFreeplay": false,
+	"weekBackground": "",
+	"weekBefore": "tutorial",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"startUnlocked": true,
+	"songs": [
+		[
+			"red static",
+			"redx",
+			[
+				215,
+				0,
+				0
+			]
+		],
+		[
+			"carnivorous",
+			"monsterredx",
+			[
+				35,
+				0,
+				0
+			]
+		],
+		[
+			"true-red",
+			"redx",
+			[
+				146,
+				113,
+				253
+			]
+		]
+	],
+	"hideStoryMode": false,
+	"weekCharacters": [
+		"",
+		"redxselect",
+		""
+	],
+	"weekName": "redx"
+}

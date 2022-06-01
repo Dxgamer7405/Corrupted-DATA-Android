@@ -1,0 +1,58 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="redx.png">
+	<!-- Created with Adobe Animate version 21.0.0.35450 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="RedXDown0000" x="0" y="0" width="632" height="895" frameX="0" frameY="0" frameWidth="647" frameHeight="895"/>
+	<SubTexture name="RedXDown0001" x="0" y="0" width="632" height="895" frameX="0" frameY="0" frameWidth="647" frameHeight="895"/>
+	<SubTexture name="RedXDown0002" x="632" y="0" width="623" height="887" frameX="-12" frameY="-8" frameWidth="647" frameHeight="895"/>
+	<SubTexture name="RedXDown0003" x="632" y="0" width="623" height="887" frameX="-12" frameY="-8" frameWidth="647" frameHeight="895"/>
+	<SubTexture name="RedXDown0004" x="1255" y="0" width="634" height="878" frameX="-13" frameY="-17" frameWidth="647" frameHeight="895"/>
+	<SubTexture name="RedXDown0005" x="1255" y="0" width="634" height="878" frameX="-13" frameY="-17" frameWidth="647" frameHeight="895"/>
+	<SubTexture name="RedXDown0006" x="1255" y="0" width="634" height="878" frameX="-13" frameY="-17" frameWidth="647" frameHeight="895"/>
+	<SubTexture name="RedXDown0007" x="1255" y="0" width="634" height="878" frameX="-13" frameY="-17" frameWidth="647" frameHeight="895"/>
+	<SubTexture name="RedXDown0008" x="1255" y="0" width="634" height="878" frameX="-13" frameY="-17" frameWidth="647" frameHeight="895"/>
+	<SubTexture name="RedXDown0009" x="1255" y="0" width="634" height="878" frameX="-13" frameY="-17" frameWidth="647" frameHeight="895"/>
+	<SubTexture name="RedXIdle0000" x="1889" y="0" width="726" height="896" frameX="0" frameY="-13" frameWidth="726" frameHeight="909"/>
+	<SubTexture name="RedXIdle0001" x="1889" y="0" width="726" height="896" frameX="0" frameY="-13" frameWidth="726" frameHeight="909"/>
+	<SubTexture name="RedXIdle0002" x="2615" y="0" width="689" height="885" frameX="-9" frameY="-24" frameWidth="726" frameHeight="909"/>
+	<SubTexture name="RedXIdle0003" x="2615" y="0" width="689" height="885" frameX="-9" frameY="-24" frameWidth="726" frameHeight="909"/>
+	<SubTexture name="RedXIdle0004" x="3304" y="0" width="680" height="880" frameX="-10" frameY="-29" frameWidth="726" frameHeight="909"/>
+	<SubTexture name="RedXIdle0005" x="3304" y="0" width="680" height="880" frameX="-10" frameY="-29" frameWidth="726" frameHeight="909"/>
+	<SubTexture name="RedXIdle0006" x="0" y="896" width="681" height="898" frameX="-10" frameY="-11" frameWidth="726" frameHeight="909"/>
+	<SubTexture name="RedXIdle0007" x="0" y="896" width="681" height="898" frameX="-10" frameY="-11" frameWidth="726" frameHeight="909"/>
+	<SubTexture name="RedXIdle0008" x="681" y="896" width="679" height="909" frameX="-10" frameY="0" frameWidth="726" frameHeight="909"/>
+	<SubTexture name="RedXIdle0009" x="681" y="896" width="679" height="909" frameX="-10" frameY="0" frameWidth="726" frameHeight="909"/>
+	<SubTexture name="RedXIdle0010" x="681" y="896" width="679" height="909" frameX="-10" frameY="0" frameWidth="726" frameHeight="909"/>
+	<SubTexture name="RedXIdle0011" x="681" y="896" width="679" height="909" frameX="-10" frameY="0" frameWidth="726" frameHeight="909"/>
+	<SubTexture name="RedXIdle0012" x="681" y="896" width="679" height="909" frameX="-10" frameY="0" frameWidth="726" frameHeight="909"/>
+	<SubTexture name="RedXIdle0013" x="681" y="896" width="679" height="909" frameX="-10" frameY="0" frameWidth="726" frameHeight="909"/>
+	<SubTexture name="RedXLeft0000" x="1360" y="896" width="650" height="879" frameX="-8" frameY="0" frameWidth="658" frameHeight="879"/>
+	<SubTexture name="RedXLeft0001" x="1360" y="896" width="650" height="879" frameX="-8" frameY="0" frameWidth="658" frameHeight="879"/>
+	<SubTexture name="RedXLeft0002" x="2010" y="896" width="649" height="859" frameX="0" frameY="-20" frameWidth="658" frameHeight="879"/>
+	<SubTexture name="RedXLeft0003" x="2010" y="896" width="649" height="859" frameX="0" frameY="-20" frameWidth="658" frameHeight="879"/>
+	<SubTexture name="RedXLeft0004" x="2659" y="896" width="643" height="873" frameX="-13" frameY="-6" frameWidth="658" frameHeight="879"/>
+	<SubTexture name="RedXLeft0005" x="2659" y="896" width="643" height="873" frameX="-13" frameY="-6" frameWidth="658" frameHeight="879"/>
+	<SubTexture name="RedXLeft0006" x="2659" y="896" width="643" height="873" frameX="-13" frameY="-6" frameWidth="658" frameHeight="879"/>
+	<SubTexture name="RedXLeft0007" x="2659" y="896" width="643" height="873" frameX="-13" frameY="-6" frameWidth="658" frameHeight="879"/>
+	<SubTexture name="RedXLeft0008" x="2659" y="896" width="643" height="873" frameX="-13" frameY="-6" frameWidth="658" frameHeight="879"/>
+	<SubTexture name="RedXLeft0009" x="2659" y="896" width="643" height="873" frameX="-13" frameY="-6" frameWidth="658" frameHeight="879"/>
+	<SubTexture name="RedXRight0000" x="3302" y="896" width="776" height="860" frameX="0" frameY="-14" frameWidth="826" frameHeight="874"/>
+	<SubTexture name="RedXRight0001" x="3302" y="896" width="776" height="860" frameX="0" frameY="-14" frameWidth="826" frameHeight="874"/>
+	<SubTexture name="RedXRight0002" x="0" y="1805" width="826" height="853" frameX="0" frameY="-21" frameWidth="826" frameHeight="874"/>
+	<SubTexture name="RedXRight0003" x="0" y="1805" width="826" height="853" frameX="0" frameY="-21" frameWidth="826" frameHeight="874"/>
+	<SubTexture name="RedXRight0004" x="826" y="1805" width="817" height="874" frameX="0" frameY="0" frameWidth="826" frameHeight="874"/>
+	<SubTexture name="RedXRight0005" x="826" y="1805" width="817" height="874" frameX="0" frameY="0" frameWidth="826" frameHeight="874"/>
+	<SubTexture name="RedXRight0006" x="826" y="1805" width="817" height="874" frameX="0" frameY="0" frameWidth="826" frameHeight="874"/>
+	<SubTexture name="RedXRight0007" x="826" y="1805" width="817" height="874" frameX="0" frameY="0" frameWidth="826" frameHeight="874"/>
+	<SubTexture name="RedXRight0008" x="826" y="1805" width="817" height="874" frameX="0" frameY="0" frameWidth="826" frameHeight="874"/>
+	<SubTexture name="RedXUp0000" x="1643" y="1805" width="637" height="905" frameX="-11" frameY="-21" frameWidth="651" frameHeight="926"/>
+	<SubTexture name="RedXUp0001" x="1643" y="1805" width="637" height="905" frameX="-11" frameY="-21" frameWidth="651" frameHeight="926"/>
+	<SubTexture name="RedXUp0002" x="2280" y="1805" width="650" height="926" frameX="0" frameY="0" frameWidth="651" frameHeight="926"/>
+	<SubTexture name="RedXUp0003" x="2280" y="1805" width="650" height="926" frameX="0" frameY="0" frameWidth="651" frameHeight="926"/>
+	<SubTexture name="RedXUp0004" x="2930" y="1805" width="638" height="908" frameX="-13" frameY="-18" frameWidth="651" frameHeight="926"/>
+	<SubTexture name="RedXUp0005" x="2930" y="1805" width="638" height="908" frameX="-13" frameY="-18" frameWidth="651" frameHeight="926"/>
+	<SubTexture name="RedXUp0006" x="2930" y="1805" width="638" height="908" frameX="-13" frameY="-18" frameWidth="651" frameHeight="926"/>
+	<SubTexture name="RedXUp0007" x="2930" y="1805" width="638" height="908" frameX="-13" frameY="-18" frameWidth="651" frameHeight="926"/>
+	<SubTexture name="RedXUp0008" x="2930" y="1805" width="638" height="908" frameX="-13" frameY="-18" frameWidth="651" frameHeight="926"/>
+	<SubTexture name="RedXUp0009" x="2930" y="1805" width="638" height="908" frameX="-13" frameY="-18" frameWidth="651" frameHeight="926"/>
+</TextureAtlas>

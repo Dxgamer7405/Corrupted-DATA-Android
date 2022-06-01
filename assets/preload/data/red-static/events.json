@@ -1,0 +1,18 @@
+{
+	"song": {
+		"speed": 2.9,
+		"stage": "sonicexeStage",
+		"player1": "bf",
+		"player2": "redguy",
+		"player3": null,
+		"events": [],
+		"notes": [],
+		"splashSkin": "noteSplashes",
+		"validScore": false,
+		"gfVersion": "gf",
+		"bpm": 160,
+		"arrowSkin": "",
+		"needsVoices": true,
+		"song": "red-static"
+	}
+}

@@ -1,0 +1,11 @@
+{
+	"idle_anim": "RedXBarIdle",
+	"confirm_anim": "RedXBarIdle",
+	"position": [
+		50,
+		130
+	],
+	"scale": 0.75,
+	"flipX": false,
+	"image": "redxselect"
+}

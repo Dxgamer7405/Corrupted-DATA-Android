@@ -1,0 +1,9 @@
+{
+	"directory": "mods/redx",
+	"defaultZoom": 0.6,
+	"isPixelStage": false,
+
+	"boyfriend": [820, 600],
+	"girlfriend": [1100, 370],
+	"opponent": [-330, 510]
+}

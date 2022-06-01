@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="ScreenTopLeft.png"><SubTexture name="static0000" x="0" y="0" width="477" height="275" frameX="0" frameY="0" frameWidth="477" frameHeight="275" />
+<SubTexture name="static0001" x="477" y="0" width="477" height="274" frameX="0" frameY="0" frameWidth="477" frameHeight="274" />
+<SubTexture name="static0002" x="0" y="275" width="477" height="274" frameX="0" frameY="0" frameWidth="477" frameHeight="274" />
+<SubTexture name="static0003" x="477" y="275" width="477" height="274" frameX="0" frameY="0" frameWidth="477" frameHeight="274" />
+<SubTexture name="static0004" x="954" y="0" width="477" height="274" frameX="0" frameY="0" frameWidth="477" frameHeight="274" />
+<SubTexture name="static0005" x="0" y="550" width="477" height="274" frameX="0" frameY="0" frameWidth="477" frameHeight="274" />
+<SubTexture name="static0006" x="477" y="550" width="477" height="274" frameX="0" frameY="0" frameWidth="477" frameHeight="274" />
+</TextureAtlas>

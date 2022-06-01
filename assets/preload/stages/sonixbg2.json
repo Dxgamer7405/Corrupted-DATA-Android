@@ -1,0 +1,9 @@
+{
+	"directory": "mods/images/sonix",
+	"defaultZoom": 0.7,
+	"isPixelStage": false,
+
+	"boyfriend": [1230, 471],
+	"girlfriend": [1100, 370],
+	"opponent": [200, 530]
+}

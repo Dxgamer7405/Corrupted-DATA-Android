@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="creditsmenu.png">
+	<!-- Created with Adobe Animate version 21.0.0.35450 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="creditsmenu0000" x="0" y="0" width="1280" height="720"/>
+	<SubTexture name="creditsmenu0001" x="0" y="0" width="1280" height="720"/>
+	<SubTexture name="creditsmenu0002" x="0" y="730" width="1280" height="720"/>
+	<SubTexture name="creditsmenu0003" x="0" y="730" width="1280" height="720"/>
+	<SubTexture name="creditsmenu0004" x="0" y="1460" width="1280" height="720"/>
+	<SubTexture name="creditsmenu0005" x="0" y="1460" width="1280" height="720"/>
+	<SubTexture name="creditsmenu0006" x="0" y="0" width="1280" height="720"/>
+	<SubTexture name="creditsmenu0007" x="0" y="0" width="1280" height="720"/>
+	<SubTexture name="creditsmenu0008" x="0" y="730" width="1280" height="720"/>
+	<SubTexture name="creditsmenu0009" x="0" y="730" width="1280" height="720"/>
+	<SubTexture name="creditsmenu0010" x="0" y="1460" width="1280" height="720"/>
+	<SubTexture name="creditsmenu0011" x="0" y="1460" width="1280" height="720"/>
+	<SubTexture name="creditsmenu0012" x="0" y="730" width="1280" height="720"/>
+	<SubTexture name="creditsmenu0013" x="0" y="730" width="1280" height="720"/>
+</TextureAtlas>

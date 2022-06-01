@@ -1,0 +1,11 @@
+{
+	"idle_anim": "SonixBarIdle",
+	"confirm_anim": "SonixBarIdle",
+	"position": [
+		50,
+		130
+	],
+	"scale": 0.75,
+	"flipX": false,
+	"image": "sonixselect"
+}

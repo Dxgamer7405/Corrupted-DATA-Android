@@ -1,0 +1,9 @@
+{
+	"directory": "images/redx",
+	"defaultZoom": 0.6,
+	"isPixelStage": false,
+
+	"boyfriend": [820, 530],
+	"girlfriend": [1000, 1000],
+	"opponent": [-330, 440]
+}

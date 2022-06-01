@@ -1,0 +1,51 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="staticbrr.png">
+	<!-- Created with Adobe Animate version 21.0.0.35450 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="staticbrr0000" x="0" y="0" width="1280" height="720" frameX="-1" frameY="0" frameWidth="1282" frameHeight="720"/>
+	<SubTexture name="staticbrr0001" x="1290" y="0" width="1280" height="720" frameX="-1" frameY="0" frameWidth="1282" frameHeight="720"/>
+	<SubTexture name="staticbrr0002" x="2580" y="0" width="1282" height="720"/>
+	<SubTexture name="staticbrr0003" x="0" y="730" width="1282" height="720"/>
+	<SubTexture name="staticbrr0004" x="0" y="0" width="1280" height="720" frameX="-1" frameY="0" frameWidth="1282" frameHeight="720"/>
+	<SubTexture name="staticbrr0005" x="1290" y="0" width="1280" height="720" frameX="-1" frameY="0" frameWidth="1282" frameHeight="720"/>
+	<SubTexture name="staticbrr0006" x="2580" y="0" width="1282" height="720"/>
+	<SubTexture name="staticbrr0007" x="1292" y="730" width="1282" height="720"/>
+	<SubTexture name="staticbrr0008" x="2584" y="730" width="1280" height="720" frameX="-1" frameY="0" frameWidth="1282" frameHeight="720"/>
+	<SubTexture name="staticbrr0009" x="0" y="1460" width="1280" height="720" frameX="-1" frameY="0" frameWidth="1282" frameHeight="720"/>
+	<SubTexture name="staticbrr0010" x="1290" y="1460" width="1282" height="720"/>
+	<SubTexture name="staticbrr0011" x="2582" y="1460" width="1282" height="720"/>
+	<SubTexture name="staticbrr0012" x="3874" y="1460" width="0" height="0" frameX="-1" frameY="0" frameWidth="1282" frameHeight="720"/>
+	<SubTexture name="staticbrr0013" x="3874" y="1460" width="0" height="0" frameX="-1" frameY="0" frameWidth="1282" frameHeight="720"/>
+	<SubTexture name="staticbrr0014" x="3874" y="1460" width="0" height="0" frameX="-1" frameY="0" frameWidth="1282" frameHeight="720"/>
+	<SubTexture name="staticbrr0015" x="3874" y="1460" width="0" height="0" frameX="-1" frameY="0" frameWidth="1282" frameHeight="720"/>
+	<SubTexture name="staticbrr0016" x="3874" y="1460" width="0" height="0" frameX="-1" frameY="0" frameWidth="1282" frameHeight="720"/>
+	<SubTexture name="staticbrr0017" x="3874" y="1460" width="0" height="0" frameX="-1" frameY="0" frameWidth="1282" frameHeight="720"/>
+	<SubTexture name="staticbrr0018" x="3874" y="1460" width="0" height="0" frameX="-1" frameY="0" frameWidth="1282" frameHeight="720"/>
+	<SubTexture name="staticbrr0019" x="3874" y="1460" width="0" height="0" frameX="-1" frameY="0" frameWidth="1282" frameHeight="720"/>
+	<SubTexture name="staticbrr0020" x="3874" y="1460" width="0" height="0" frameX="-1" frameY="0" frameWidth="1282" frameHeight="720"/>
+	<SubTexture name="staticbrr0021" x="3874" y="1460" width="0" height="0" frameX="-1" frameY="0" frameWidth="1282" frameHeight="720"/>
+	<SubTexture name="staticbrr0022" x="3874" y="1460" width="0" height="0" frameX="-1" frameY="0" frameWidth="1282" frameHeight="720"/>
+	<SubTexture name="staticbrr0023" x="3874" y="1460" width="0" height="0" frameX="-1" frameY="0" frameWidth="1282" frameHeight="720"/>
+	<SubTexture name="staticbrr0024" x="3874" y="1460" width="0" height="0" frameX="-1" frameY="0" frameWidth="1282" frameHeight="720"/>
+	<SubTexture name="staticbrr0025" x="3874" y="1460" width="0" height="0" frameX="-1" frameY="0" frameWidth="1282" frameHeight="720"/>
+	<SubTexture name="staticbrr0026" x="3874" y="1460" width="0" height="0" frameX="-1" frameY="0" frameWidth="1282" frameHeight="720"/>
+	<SubTexture name="staticbrr0027" x="3874" y="1460" width="0" height="0" frameX="-1" frameY="0" frameWidth="1282" frameHeight="720"/>
+	<SubTexture name="staticbrr0028" x="3874" y="1460" width="0" height="0" frameX="-1" frameY="0" frameWidth="1282" frameHeight="720"/>
+	<SubTexture name="staticbrr0029" x="3874" y="1460" width="0" height="0" frameX="-1" frameY="0" frameWidth="1282" frameHeight="720"/>
+	<SubTexture name="staticbrr0030" x="3874" y="1460" width="0" height="0" frameX="-1" frameY="0" frameWidth="1282" frameHeight="720"/>
+	<SubTexture name="staticbrr0031" x="3874" y="1460" width="0" height="0" frameX="-1" frameY="0" frameWidth="1282" frameHeight="720"/>
+	<SubTexture name="staticbrr0032" x="3874" y="1460" width="0" height="0" frameX="-1" frameY="0" frameWidth="1282" frameHeight="720"/>
+	<SubTexture name="staticbrr0033" x="3874" y="1460" width="0" height="0" frameX="-1" frameY="0" frameWidth="1282" frameHeight="720"/>
+	<SubTexture name="staticbrr0034" x="3874" y="1460" width="0" height="0" frameX="-1" frameY="0" frameWidth="1282" frameHeight="720"/>
+	<SubTexture name="staticbrr0035" x="3874" y="1460" width="0" height="0" frameX="-1" frameY="0" frameWidth="1282" frameHeight="720"/>
+	<SubTexture name="staticbrr0036" x="3874" y="1460" width="0" height="0" frameX="-1" frameY="0" frameWidth="1282" frameHeight="720"/>
+	<SubTexture name="staticbrr0037" x="3874" y="1460" width="0" height="0" frameX="-1" frameY="0" frameWidth="1282" frameHeight="720"/>
+	<SubTexture name="staticbrr0038" x="3874" y="1460" width="0" height="0" frameX="-1" frameY="0" frameWidth="1282" frameHeight="720"/>
+	<SubTexture name="staticbrr0039" x="3874" y="1460" width="0" height="0" frameX="-1" frameY="0" frameWidth="1282" frameHeight="720"/>
+	<SubTexture name="staticbrr0040" x="3874" y="1460" width="0" height="0" frameX="-1" frameY="0" frameWidth="1282" frameHeight="720"/>
+	<SubTexture name="staticbrr0041" x="3874" y="1460" width="0" height="0" frameX="-1" frameY="0" frameWidth="1282" frameHeight="720"/>
+	<SubTexture name="staticbrr0042" x="3874" y="1460" width="0" height="0" frameX="-1" frameY="0" frameWidth="1282" frameHeight="720"/>
+	<SubTexture name="staticbrr0043" x="3874" y="1460" width="0" height="0" frameX="-1" frameY="0" frameWidth="1282" frameHeight="720"/>
+	<SubTexture name="staticbrr0044" x="3874" y="1460" width="0" height="0" frameX="-1" frameY="0" frameWidth="1282" frameHeight="720"/>
+	<SubTexture name="staticbrr0045" x="3874" y="1460" width="0" height="0" frameX="-1" frameY="0" frameWidth="1282" frameHeight="720"/>
+</TextureAtlas>

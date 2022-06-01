@@ -1,0 +1,65 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="sonixselect.png">
+	<!-- Created with Adobe Animate version 21.0.0.35450 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="SonixBarIdle0000" x="0" y="0" width="415" height="610"/>
+	<SubTexture name="SonixBarIdle0001" x="0" y="0" width="415" height="610"/>
+	<SubTexture name="SonixBarIdle0002" x="0" y="0" width="415" height="610"/>
+	<SubTexture name="SonixBarIdle0003" x="0" y="0" width="415" height="610"/>
+	<SubTexture name="SonixBarIdle0004" x="0" y="0" width="415" height="610"/>
+	<SubTexture name="SonixBarIdle0005" x="0" y="0" width="415" height="610"/>
+	<SubTexture name="SonixBarIdle0006" x="0" y="0" width="415" height="610"/>
+	<SubTexture name="SonixBarIdle0007" x="0" y="0" width="415" height="610"/>
+	<SubTexture name="SonixBarIdle0008" x="0" y="0" width="415" height="610"/>
+	<SubTexture name="SonixBarIdle0009" x="0" y="0" width="415" height="610"/>
+	<SubTexture name="SonixBarIdle0010" x="0" y="0" width="415" height="610"/>
+	<SubTexture name="SonixBarIdle0011" x="0" y="0" width="415" height="610"/>
+	<SubTexture name="SonixBarIdle0012" x="0" y="0" width="415" height="610"/>
+	<SubTexture name="SonixBarIdle0013" x="0" y="0" width="415" height="610"/>
+	<SubTexture name="SonixBarIdle0014" x="0" y="0" width="415" height="610"/>
+	<SubTexture name="SonixBarIdle0015" x="0" y="0" width="415" height="610"/>
+	<SubTexture name="SonixBarIdle0016" x="0" y="0" width="415" height="610"/>
+	<SubTexture name="SonixBarIdle0017" x="0" y="0" width="415" height="610"/>
+	<SubTexture name="SonixBarIdle0018" x="0" y="0" width="415" height="610"/>
+	<SubTexture name="SonixBarIdle0019" x="0" y="0" width="415" height="610"/>
+	<SubTexture name="SonixBarIdle0020" x="425" y="0" width="415" height="610"/>
+	<SubTexture name="SonixBarIdle0021" x="850" y="0" width="415" height="610"/>
+	<SubTexture name="SonixBarIdle0022" x="1275" y="0" width="415" height="610"/>
+	<SubTexture name="SonixBarIdle0023" x="0" y="620" width="415" height="610"/>
+	<SubTexture name="SonixBarIdle0024" x="425" y="620" width="415" height="610"/>
+	<SubTexture name="SonixBarIdle0025" x="850" y="620" width="415" height="610"/>
+	<SubTexture name="SonixBarIdle0026" x="1275" y="620" width="415" height="610"/>
+	<SubTexture name="SonixBarIdle0027" x="0" y="1240" width="415" height="610"/>
+	<SubTexture name="SonixBarIdle0028" x="425" y="1240" width="415" height="610"/>
+	<SubTexture name="SonixBarIdle0029" x="850" y="1240" width="415" height="610"/>
+	<SubTexture name="SonixBarIdle0030" x="850" y="1240" width="415" height="610"/>
+	<SubTexture name="SonixBarIdle0031" x="850" y="1240" width="415" height="610"/>
+	<SubTexture name="SonixBarIdle0032" x="850" y="1240" width="415" height="610"/>
+	<SubTexture name="SonixBarIdle0033" x="850" y="1240" width="415" height="610"/>
+	<SubTexture name="SonixBarIdle0034" x="850" y="1240" width="415" height="610"/>
+	<SubTexture name="SonixBarIdle0035" x="850" y="1240" width="415" height="610"/>
+	<SubTexture name="SonixBarIdle0036" x="850" y="1240" width="415" height="610"/>
+	<SubTexture name="SonixBarIdle0037" x="850" y="1240" width="415" height="610"/>
+	<SubTexture name="SonixBarIdle0038" x="850" y="1240" width="415" height="610"/>
+	<SubTexture name="SonixBarIdle0039" x="850" y="1240" width="415" height="610"/>
+	<SubTexture name="SonixBarIdle0040" x="850" y="1240" width="415" height="610"/>
+	<SubTexture name="SonixBarIdle0041" x="850" y="1240" width="415" height="610"/>
+	<SubTexture name="SonixBarIdle0042" x="850" y="1240" width="415" height="610"/>
+	<SubTexture name="SonixBarIdle0043" x="850" y="1240" width="415" height="610"/>
+	<SubTexture name="SonixBarIdle0044" x="850" y="1240" width="415" height="610"/>
+	<SubTexture name="SonixBarIdle0045" x="850" y="1240" width="415" height="610"/>
+	<SubTexture name="SonixBarIdle0046" x="850" y="1240" width="415" height="610"/>
+	<SubTexture name="SonixBarIdle0047" x="850" y="1240" width="415" height="610"/>
+	<SubTexture name="SonixBarIdle0048" x="850" y="1240" width="415" height="610"/>
+	<SubTexture name="SonixBarIdle0049" x="850" y="1240" width="415" height="610"/>
+	<SubTexture name="SonixBarIdle0050" x="425" y="1240" width="415" height="610"/>
+	<SubTexture name="SonixBarIdle0051" x="0" y="1240" width="415" height="610"/>
+	<SubTexture name="SonixBarIdle0052" x="1275" y="620" width="415" height="610"/>
+	<SubTexture name="SonixBarIdle0053" x="850" y="620" width="415" height="610"/>
+	<SubTexture name="SonixBarIdle0054" x="425" y="620" width="415" height="610"/>
+	<SubTexture name="SonixBarIdle0055" x="0" y="620" width="415" height="610"/>
+	<SubTexture name="SonixBarIdle0056" x="1275" y="0" width="415" height="610"/>
+	<SubTexture name="SonixBarIdle0057" x="850" y="0" width="415" height="610"/>
+	<SubTexture name="SonixBarIdle0058" x="425" y="0" width="415" height="610"/>
+	<SubTexture name="SonixBarIdle0059" x="0" y="0" width="415" height="610"/>
+</TextureAtlas>
